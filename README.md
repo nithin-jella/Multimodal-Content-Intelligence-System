@@ -7,18 +7,10 @@ This project implements a Multimodal Retrieval-Augmented Generation (RAG) system
 
 Experience the project in action:
 
-[![LoomRAG Streamlit App](https://img.shields.io/badge/Streamlit%20App-red?style=for-the-badge&logo=streamlit&labelColor=white)](https://huggingface.co/spaces/NotShrirang/LoomRAG)
 
----
 
-## 📸 Implementation Screenshots
 
-| ![Screenshot 2025-01-01 184852](https://github.com/user-attachments/assets/ad79d0f0-d200-4a82-8c2f-0890a9fe8189) | ![Screenshot 2025-01-01 222334](https://github.com/user-attachments/assets/7307857d-a41f-4f60-8808-00d6db6e8e3e) |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Data Upload Page                                                                                                 | Data Search / Retrieval                                                                                          |
-|                                                                                                                  |                                                                                                                  |
-| ![Screenshot 2025-01-01 222412](https://github.com/user-attachments/assets/e38273f4-426b-444d-80f0-501fa9563779) | ![Screenshot 2025-01-01 223948](https://github.com/user-attachments/assets/21724a92-ef79-44ae-83e6-25f8de29c45a) |
-| Data Annotation Page                                                                                             | CLIP Fine-Tuning                                                                                                 |
+
 
 ---
 
