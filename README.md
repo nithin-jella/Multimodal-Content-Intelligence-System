@@ -1,7 +1,7 @@
 # Multimodal Content Intelligence System
 
 
-<a href="https://huggingface.co/spaces/NotShrirang/LoomRAG"><img src="https://img.shields.io/badge/Streamlit%20App-red?style=flat-rounded-square&logo=streamlit&labelColor=white"/></a>
+
 
 This project implements a Multimodal Retrieval-Augmented Generation (RAG) system, named **Multimodal Content Intelligence System**, that leverages **OpenAI's CLIP** model for neural cross-modal image retrieval and semantic search, and **OpenAI's Whisper** model for audio processing. The system allows users to input text queries, images, or audio to retrieve multimodal responses seamlessly through vector embeddings. It features a comprehensive annotation interface for creating custom datasets and supports CLIP model fine-tuning with configurable parameters for domain-specific applications. The system also supports uploading images, PDFs, and audio files (including real-time recording) for enhanced interaction and intelligent retrieval capabilities through a Streamlit-based interface.
 
